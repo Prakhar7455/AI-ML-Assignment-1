@@ -1,3 +1,8 @@
+**Name: Prakhar Bhardwaj**\
+**Reg No: 23MEI10051**\
+**Application no: IN26011412**\
+**Batch Number: 1(A)**
+
 # Medical Cost Insurance Prediction
 
 ## Objective
